@@ -7,5 +7,5 @@ CREATE TABLE IF NOT EXISTS documents (
     filename TEXT,
     uploaded_at TEXT
 )
-"""
+""")
 connection.commit()
